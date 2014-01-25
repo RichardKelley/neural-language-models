@@ -1,4 +1,4 @@
-Neural Models of Text
+Neural Models of Language
 =====================
 
 I'll be using this git repository to share iPython notebooks and other
